@@ -1,0 +1,23 @@
+.swiper {
+  overflow: visible;
+}
+
+.swiper-slide {
+  transition: all .45s ease;
+  transform: scale(.82);
+  opacity: .45;
+}
+
+.swiper-slide-active {
+  transform: scale(1);
+  opacity: 1;
+  z-index: 5;
+}
+
+.swiper-slide-active .card {
+  box-shadow: 0 30px 80px rgba(0,0,0,.18);
+}
+
+.card{
+  transition:.45s;
+}
