@@ -57,7 +57,7 @@ const ProductCard = ({ product }) => {
           </button>
 
           <Link
-            to={`/product/${product.id}`}
+            to={`/product/1`}
             className="rounded-md border border-green-700 px-2 py-2 text-[10px] font-semibold text-green-700 transition hover:bg-green-700 hover:text-white sm:rounded-lg sm:px-5 sm:py-3 sm:text-sm"
           >
             View
