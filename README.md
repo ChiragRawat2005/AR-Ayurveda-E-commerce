@@ -1,6 +1,6 @@
 ![Home Page](src/assets/images/HomePage1.png)
-![Top Categories](src/assets/images/HomePage1.png)
-![Shop By Concern](src/assets/images/HomePage1.png)
+![Top Categories](src/assets/images/HomePage2.png)
+![Shop By Concern](src/assets/images/HomePage3.png)
 
 AR Ayurveda E-Commerce Website Review & Improvement Suggestions
 
