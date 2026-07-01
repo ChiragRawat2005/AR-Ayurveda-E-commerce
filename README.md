@@ -86,6 +86,7 @@ Reducing unnecessary promotional sections would improve readability and support 
 ________________________________________
 Strengths of the Existing Website
 Several features are already well implemented and contribute positively to the user experience.
+________________________________________
 ✓ Clean Layout
 The interface is organized and easy to navigate, making information accessible.
 ________________________________________
